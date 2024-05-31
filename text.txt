@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream
 컴퓨터과학과 2110190 이가을
+=======
+안녕하세요!
+제 이름은 이가을입니다!
+Hello World! // branch_의 변경사항입니다.
+>>>>>>> Stashed changes
